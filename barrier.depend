@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1491919465 source:c:\users\my pc\desktop\barrier\main.cpp
+	"player.h"
+	"Enemy.h"
+
+1491818740 c:\users\my pc\desktop\barrier\include\player.h
+	"console.h"
+
+1491818740 source:c:\users\my pc\desktop\barrier\src\console.cpp
+	"console.h"
+
+1491818815 c:\users\my pc\desktop\barrier\include\console.h
+	<windows.h>
+	<bits/stdc++.h>
+	<ctime>
+	<cmath>
+	<conio.h>
+
+1491818815 source:c:\users\my pc\desktop\barrier\src\player.cpp
+	"player.h"
+	"console.h"
+
+1491819253 c:\users\my pc\desktop\barrier\include\enemy.h
+	"console.h"
+
+1491819316 source:c:\users\my pc\desktop\barrier\src\enemy.cpp
+	"Enemy.h"
+
+1491919096 c:\users\my pc\desktop\barrier\game.h
+	"Enemy.h"
+	"player.h"
+
+1491919043 source:c:\users\my pc\desktop\barrier\game.cpp
+	"game.h"
+
+1491918825 c:\users\my pc\desktop\barrier\include\background.h
+
+1491818740 c:\users\my pc\desktop\barrier\player.h
+	"console.h"
+
+1491818815 c:\users\my pc\desktop\barrier\console.h
+	<windows.h>
+	<bits/stdc++.h>
+	<ctime>
+	<cmath>
+	<conio.h>
+
+1491819253 c:\users\my pc\desktop\barrier\enemy.h
+	"console.h"
+
